@@ -1,3 +1,3 @@
 # FFXIV FAN FESTIVAL ARCHIVE
 
-FINAL FANTASY XIVのファンフェスティバル開催記録をまとめる非公式ファンアーカイブです。
+FFXIVファンフェスティバルの非公式ファンアーカイブです。
